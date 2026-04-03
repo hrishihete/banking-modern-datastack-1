@@ -13,8 +13,9 @@
 ---
 
 ## 📌 Project Overview
-This project demonstrates an **end-to-end modern data stack pipeline** for a **Banking domain**.  
-We simulate **customer, account, and transaction data**, stream changes in real time, transform them into analytics-ready models, and visualize insights — following **best practices of CI/CD and data warehousing**.
+Built an end-to-end real-time data engineering pipeline simulating a banking system, designed to capture transactional changes and transform them into analytics-ready datasets.
+
+The system leverages Change Data Capture (CDC), streaming, orchestration, and modern transformation tools to deliver a scalable Bronze → Silver → Gold architecture in the cloud. **best practices of CI/CD and data warehousing**.
 
 👉 Think of it as a **real-world banking data ecosystem** built on modern data tools.  
 
@@ -139,7 +140,7 @@ banking-modern-datastack/
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti*  
-**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)  
+**Author**: *Hrishikesh Hete*  
+**LinkedIn**: [HrishikeshHete](https://www.linkedin.com/in/hrishikeshhete/)  
+**Contact**: [hetehrishi4@gmail.com](hetehrishi4@gmail.com)  
 
